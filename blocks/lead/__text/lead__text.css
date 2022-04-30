@@ -1,0 +1,7 @@
+.lead__text {
+  margin: auto;
+  max-width: 800px;
+  max-height: 250px;
+  justify-content: center;
+  padding-top: 140px;
+}

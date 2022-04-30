@@ -1,0 +1,9 @@
+.lead {
+  margin: auto;
+  min-height: 718px;
+  max-width: 100%;
+  background: url(../../images/cran_081.jpg);
+  background-size: cover;
+  box-sizing: border-box;
+  background-repeat: no-repeat;
+}
